@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BroadcastTest2</string>
+    <string name="login_button">login</string>
+    <string name="account_text">account</string>
+    <string name="password_text">password</string>
+    <string name="remember_password">remember password</string>
+    <string name="button_offline">send force offline broadcast</string>
+</resources>
